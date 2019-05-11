@@ -1,0 +1,24 @@
+                                          
+Name(Last, First, Midde):   Baker Ricky  
+Student ID:                 1234
+Global ID:                  rbaker1
+Street Address:             123 Meadow 
+City:                       Hill
+State/Province/Region:      MI
+Postal/Zip Code:            48234
+Country:                    United Arab Emirates
+Cell Phone:                 123-345-4324
+Local Phone:                --
+                                          
+Faculty member:             Kinnicutt
+Faculty Phone Number:       837-332-8324
+                                          
+Enrollment Semester:        2019
+Number of credits:          3
+                                          
+Description:                THis is a Test.
+                                          
+Student Signature:          Rbaker
+Date of Submission:         04/26/2019
+                                          
+Approved by:        _______________________
